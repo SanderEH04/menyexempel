@@ -6,10 +6,12 @@ ul {
     background-color: #DC143C;
     position: static;
     border: 1px outset #A41720;
+    width: 100%;
 }
 
 li {
     float: left;
+    border-bottom: 1px outset #A41720;
 }
 
 li a {
@@ -23,4 +25,8 @@ li a {
 li a: hover {
     background-color: black;
     color: white;
+}
+
+li: last-child {
+border-bottom:none;
 }
