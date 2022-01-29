@@ -5,7 +5,7 @@ ul {
     overflow: hidden;
     background-color: #DC143C;
     position: static;
-    border: 1px solid #A41720;
+    border: 1px outset #A41720;
 }
 
 li {
