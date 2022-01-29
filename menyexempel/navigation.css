@@ -23,7 +23,6 @@ li a {
 
 li a: hover {
     background-color: F46D75;
-    color: white;
 }
 
 li: last-child {
