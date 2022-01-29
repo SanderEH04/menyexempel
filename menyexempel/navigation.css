@@ -5,13 +5,13 @@ ul {
     overflow: hidden;
     background-color: #DC143C;
     position: static;
-    border: 1px outset #A41720;
+    border: 5px outset #A41720;
     width: 100%;
 }
 
 li {
     float: left;
-    border-bottom: 1px outset #A41720;
+    border-bottom: 5px outset #A41720;
 }
 
 li a {
