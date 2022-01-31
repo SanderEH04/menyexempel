@@ -23,7 +23,8 @@ li a {
 }
 
 li a: hover {
-    background-color: #F46D75;
+    background-color: blue;
+    color: white;
 }
 
 li: last-child {
