@@ -27,6 +27,6 @@ li a:hover {
     color: white;
 }
 
-li: last-child {
+li:last-child {
 border-bottom:none;
 }
